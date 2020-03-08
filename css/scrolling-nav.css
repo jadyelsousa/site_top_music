@@ -1,0 +1,125 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+.image-home {
+  background: url(../imagens/audio-audio-mixer-blur-744322.jpg);
+  background-size: 1400px;
+
+}
+h1 { color: white;
+	 
+	 font-family: Gill Sans, sans-serif;
+
+
+ }
+.menu{
+	background-color: transparent !important;
+	
+}
+
+.menu-scroll{
+	background:#070719 !important;
+	
+}
+
+p.lead 
+{ color: white;
+  font-size:22px;
+  font-family:Courier, monospace;
+  
+
+	
+	
+ } 
+ .bio {
+	 
+	 color:black;
+	 
+	 
+ }
+
+.borda{
+	width:350px;
+	height:350px;
+	border-radius:50%;
+	
+	
+}
+.rede{
+	width:130px;
+	height:130px;
+	float: right; width: 7%;
+	top: 20px;
+    left: 20px;
+	margin-left:10px;
+	transition:all 0.4s ease-out;
+	border-radius:50%;
+
+}
+rede:hover{
+	cursor:pointer;
+	transform:tranlateY(-20px);
+}
+
+.icone{
+	width:50px;
+	height:50px;
+	margin:-40px auto;
+	padding:7px;
+	width:20;
+	transition:all 0.4s ease-out;
+	
+	
+	
+}
+
+.icone:hover{
+	cursor: pointer;
+    transform: tranlateY(-20px);
+	
+
+}
+.navbar.custom {
+  height: 20%;  
+  margin: 0 auto;
+  color: #555;
+  background-color: #D5D5D5;
+}
+
+.nav-link{
+  color: white;
+  font-size:15px;
+  font-family:;
+	
+	
+}
+
+h2{
+	
+	f font-family: "metropolis-black";
+  src: url("../fonts/metropolis/metropolis-black-webfont.woff2") format("woff2"),
+       url("../fonts/metropolis/metropolis-black-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+}
+.sobredit{
+
+
+  background-color: #f9f9ff;
+  
+}
+
+.servicando{
+	background-color#87CEFA;
+	
+}
